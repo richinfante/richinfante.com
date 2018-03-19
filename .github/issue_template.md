@@ -1,5 +1,5 @@
-#### Page the issue appears on:
+**Page the issue appears on:**
 > `richinfante.com/{{ enter page url here }}`
 
-#### Description:
+**Description:**
 > What did I mess up?
